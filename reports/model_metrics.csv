@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score
+KNN,0.8101,0.7612,0.7391,0.75
+SVM,0.8101,0.8182,0.6522,0.7258
+Logistic Regression,0.8045,0.7833,0.6812,0.7287
+Random Forest,0.7989,0.7463,0.7246,0.7353
